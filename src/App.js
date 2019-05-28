@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import Kids from './Kids';
-import Men from './Men';
-import Women from './Women';
-import PlusSize from './PlusSize';
+import Kids from './kids';
+import Men from './men';
+import Women from './women';
+import PlusSize from './plussize';
 import Header from './Header';
 import { Route, Switch } from "react-router-dom";
 
