@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Kids from './kids';
-import Men from './men';
+import Men from './Men';
 import Women from './women';
 import PlusSize from './plussize';
 import Header from './Header';
