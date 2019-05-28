@@ -12,13 +12,13 @@ export default class header extends Component {
                 <Link to="/">Kids</Link>
               </li>
               <li>
-                <Link to="/men/">Mens</Link>
+                <Link to="/men">Mens</Link>
               </li>
               <li>
-                <Link to="/women/">Womens</Link>
+                <Link to="/women">Womens</Link>
               </li>
               <li>
-                <Link to="/plussize/">Plus Size</Link>
+                <Link to="/plussize">Plus Size</Link>
               </li>
             </ul>
           </nav>
