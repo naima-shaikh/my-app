@@ -10,4 +10,4 @@ class Women extends Component{
   }
 }
 
-export default women;
+export default Women;
