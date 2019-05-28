@@ -10,4 +10,4 @@ class Kids extends Component{
   }
 }
 
-export default kids;
+export default Kids;
