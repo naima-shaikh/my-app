@@ -4,9 +4,9 @@ import './Header.css';
 export default class Header extends Component {
   render() {
     return (
-      <div className="Header">
+      <nav className="Header">
         <h1> {this.props.name}</h1>
-        <nav className="nav-list">
+        <div className="nav-list">
           <div className="nav-item">
             <Link to="/">Kids</Link>
           </div>
@@ -19,8 +19,8 @@ export default class Header extends Component {
           <div className="nav-item">
             <Link to="/plussize">Plus Size</Link>
           </div>
-         </nav>
-       </div>
+        </div>
+      </nav>
     );
   }
 }
